@@ -2,6 +2,18 @@
 
 class Generate
 {
+	
+	public static function generateTitle()
+	{
+		$start = array("Battle", "Day", "Quest", "Time", "Lord", "Death", "Love", "Life", "Age", "Conquest", "Siege", "Mourning", "Wife", "King",
+                              "Queen", "Epic", "Tale", "Story", "Ballad", "Rise", "Fall", "Adventure", "Adventures", "Conspiracy", "Danger", "Chaos",
+                                 "Help", "Tragedy", "Mark", "Sign", "Road", "Path", "Question", "Knowledge", "Time");
+		$middle = array("of", "for", "in", "during", "on", "about", "for the", "near", "of the", "and");
+		$end = array("Ages", "Glory", "Danger", "Matrimony", "Harmony", "Chaos", "Prophecy", "Prophecies", "Freedom", "Tyranny","Justice");
+
+		return $start[array_rand($start)] . " " . $middle[array_rand($middle)] . " " . $end[array_rand($end)];
+	}
+	
 	public static function generatePlanet()
 	{
 		$prefix = array('Doth','Korr', 'Ver', 'Vare', 'Varr', 'Thym', 'Grett', 'Greth', 'Sal', 'Ter', 'On', 'Ep', 'Els', 'Ol', 'Gern', 'Get', 'Geth', 'Sem', 'Sal', 'Vol', 'Kal', 'Han', 'Hor', 'Weir', 'Es', 'Pon', 'Pos', 'Lul', 'Let', 'Le', 'Gre', 'Kyr', 'Khu', 'Bae', 'Xyr', 'Zim', 'Zy', 'Zei', 'Cth', 'Vy', 'Dor');
