@@ -7,7 +7,7 @@ Use is pretty straightforward. In a new PHP file include Generate.php.
 
 eg: require_once('Generate.php');
 
-Then simply: echo Generate::generateName() to generate a name. generateName, generatePlot, generatePlanet are the current three methods which encompass the three categories originally implemented in the C# WorldMaker program.
+Then simply: echo Generate::generateName() to generate a name. generateTitle, generateName, generatePlot, generatePlanet are the current four methods contained within which encompass the four categories originally implemented in the C# WorldMaker program.
 
 
 Pull requests are amazing. Go for it!
