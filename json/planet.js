@@ -70,6 +70,14 @@
       "rell",
       "ell",
       "nu"
+    ],
+    "designations": [
+      "Prime",
+      "Beta",
+      "Gamma",
+      "Delta",
+      "Varus",
+      "Mivar"
     ]
   }
 }
