@@ -35,7 +35,9 @@
       "Path",
       "Question",
       "Knowledge",
-      "Time"
+      "Vexing",
+      "Englighten",
+      "Attonement"
     ],
     "middle": [
       "of",

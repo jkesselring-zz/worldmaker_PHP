@@ -8,7 +8,13 @@
       "Bronze",
       "Silver",
       "Oak",
-      "Rusted"
+      "Rusted",
+      "Tusk",
+      "Bone",
+      "Obsidian",
+      "Copper",
+      "Adamantine",
+      "Stone"
     ],
     "type": [
       "Warhammer",
@@ -24,7 +30,17 @@
       "Spear",
       "Dagger",
       "War Axe",
-      "Scythe"
+      "Scythe",
+      "Staff",
+      "Halbred",
+      "Great Bow",
+      "Hand Crossbow",
+      "Knife",
+      "Machete",
+      "Rapier",
+      "Trident",
+      "Katar",
+      "Fist Wraps"
     ],
     "element": [
       "Ice",
@@ -42,7 +58,9 @@
       "Poison",
       "Shadow",
       "Night",
-      "Day"
+      "Day",
+      "Shade",
+      "Illumination"
     ]
   }
 }

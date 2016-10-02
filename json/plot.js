@@ -51,7 +51,10 @@
       "wildfire",
       "warlord",
       "explorer",
-      "swashbuckler"
+      "swashbuckler",
+      "agent",
+      "cleric",
+      "time"
     ],
     "means": [
       "must kill",

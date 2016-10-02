@@ -11,7 +11,16 @@
       "Rusted",
       "Leather",
       "Scale",
-      "Chainmail"
+      "Chainmail",
+      "Mithril",
+      "Silk",
+      "Shell",
+      "Great Shell",
+      "Bone",
+      "Obsidian",
+      "Copper",
+      "Adamantine",
+      "Stone"
     ],
     "type": [
       "Helmet",
@@ -20,7 +29,11 @@
       "Boots",
       "Breastplate",
       "Pauldrons",
-      "Belt"
+      "Belt",
+      "Shield",
+      "Buckler",
+      "Tunic",
+      "Weave"
     ],
     "element": [
       "Ice",
@@ -38,7 +51,9 @@
       "Poison",
       "Shadow",
       "Night",
-      "Day"
+      "Day",
+      "Light",
+      "Shadow"
     ]
   }
 }

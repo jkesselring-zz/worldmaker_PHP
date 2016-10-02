@@ -167,13 +167,20 @@
       "III",
       "IV",
       "V",
+      "VI",
+      "VII",
+      "VIII",
+      "IX",
+      "X",
       "Sr.",
       "The Terrible",
       "The Great",
       "The Pure",
       "The Vile",
       "The Destroyer",
-      "The Conqurer"
+      "The Conqurer",
+      "The Noble",
+      "The Enduring"
     ]
   }
 }

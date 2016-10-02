@@ -31,7 +31,20 @@
       "Lul",
       "Let",
       "Le",
-      "Gre"
+      "Gre",
+      "Api",
+      "Aer",
+      "Cyv",
+      "Eru",
+      "Ely",
+      "Esa",
+      "Ewa",
+      "Wuk",
+      "Dri",
+      "Rit",
+      "Nop",
+      "Nip",
+      "Lug"
     ],
     "suffix": [
       "us",
@@ -69,7 +82,22 @@
       "ella",
       "rell",
       "ell",
-      "nu"
+      "nu",
+      "triv",
+      "thea",
+      "rus",
+      "ypso",
+      "rro",
+      "urn",
+      "xima",
+      "pter",
+      "liv",
+      "hion",
+      "unus",
+      "lara",
+      "wei",
+      "ctus",
+      "rus"
     ],
     "designations": [
       "Prime",
@@ -77,7 +105,8 @@
       "Gamma",
       "Delta",
       "Varus",
-      "Mivar"
+      "Mivar",
+      "Theta"
     ]
   }
 }
