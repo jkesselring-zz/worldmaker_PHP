@@ -1,0 +1,59 @@
+body{
+  background-color:#eee;
+  color:#333;
+  font-size:1.2rem;
+}
+
+.category-wrap{
+  border-right:1px solid #ccc;
+  margin-bottom:2rem;
+}
+
+.category-wrap:nth-child(n+3){
+  border:none;
+}
+
+li{
+  padding:.35rem;
+}
+
+li:nth-child(odd) {
+  background-color: rgba(0,0,0,.02);
+}
+
+h3,h2{
+  font-weight:600;
+}
+
+ul{
+  list-style:none;
+  margin:0;
+  padding:0;
+}
+
+footer{
+  padding-top:1rem;
+  border-top:1px solid #ccc;
+}
+
+.float-right{
+  float:right;
+}
+
+.turnable:hover{
+  cursor: pointer;
+  -webkit-animation:spin 4s linear infinite;
+  -moz-animation:spin 4s linear infinite;
+  animation:spin 4s linear infinite;
+}
+
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+
+/* max-width 640px, mobile-only styles, use when QAing mobile issues */
+@media only screen and (max-width: 40em) {
+  .copyright{
+    position:static;
+  }
+}
