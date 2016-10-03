@@ -5,6 +5,8 @@
 </title>
 <link rel="stylesheet" href="assets/foundation.min.css"/>
 <link rel="stylesheet" href="assets/style.css"/>
+
+<script src="/assets/js/analytics.js"></script>
 </head>
 <body>
 <div class="row">
@@ -79,5 +81,8 @@ window.onload = function () {
   regenerate(<?php echo isset($_GET['max']) && $_GET['max'] > 0 ? $_GET['max'] : 5 ?>);
 };
 </script>
+<?php
+  require_once 'includes/meta/analytics.php';
+?>
 </body>
 </html>
