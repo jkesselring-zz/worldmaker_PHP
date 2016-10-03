@@ -73,7 +73,7 @@ if(isset($_GET['max'])){
     </div>
   </div>
   <div class="small-12 medium-4 columns">
-    <small>PHP Port by Erus.me, find me on Github @ <a href="http://github.com/jkesselring" rel="nofollow" target="_blanket">jkesselring</a></small>
+    <small>PHP Port by Erus.me, find me on Github @ <a href="http://github.com/jkesselring" rel="nofollow" target="_blanket">jkesselring</a> Twitter <a href="http://twitter.com/jkesselring" rel="nofollow" target="_blank">@jkesselring</a></small>
   </div>
   <div class="small-12 medium-4 columns">
     <small>Icon made by <a href="http://www.flaticon.com/authors/gregor-cresnar" rel="nofollow" target="_blank">http://www.flaticon.com/authors/gregor-cresnar</a> from <a href="http://www.flaticon.com" rel="nofollow" target="_blank">www.flaticon.com</a></small>
