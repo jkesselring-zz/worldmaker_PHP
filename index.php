@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="assets/foundation.min.css"/>
 <link rel="stylesheet" href="assets/style.css"/>
 
-<script src="/assets/js/analytics.js"></script>
+<script src="assets/js/analytics.js"></script>
 </head>
 <body>
 <div class="row">
@@ -68,7 +68,7 @@
     </div>
   </div>
   <div class="small-12 medium-4 columns">
-    <small>PHP Port by Erus.me, find me on Github @ <a href="http://github.com/jkesselring" rel="nofollow" target="_blanket">jkesselring</a> Twitter <a href="http://twitter.com/jkesselring" rel="nofollow" target="_blank">@jkesselring</a></small>
+    <small>PHP Port by Erus.me. <a href="https://github.com/jkesselring/worldmaker_PHP/" rel="nofollow" target="_blank">Find it on Github here.</a> And find me on Github @ <a href="http://github.com/jkesselring" rel="nofollow" target="_blanket">jkesselring</a> Twitter <a href="http://twitter.com/jkesselring" rel="nofollow" target="_blank">@jkesselring</a></small>
   </div>
   <div class="small-12 medium-4 columns">
     <small>Icon made by <a href="http://www.flaticon.com/authors/gregor-cresnar" rel="nofollow" target="_blank">http://www.flaticon.com/authors/gregor-cresnar</a> from <a href="http://www.flaticon.com" rel="nofollow" target="_blank">www.flaticon.com</a></small>
