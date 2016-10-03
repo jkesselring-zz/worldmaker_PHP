@@ -1,10 +1,3 @@
-<?php
-$max = 5;
-if(isset($_GET['max'])){
-  $max = ($_GET['max'] > 0 ? $_GET['max'] : 5);
-}
-?>
-
 <html>
 <head>
 <title>
